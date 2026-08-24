@@ -41,13 +41,6 @@ O dashboard apresenta os seguintes indicadores e análises:
 ![Dashboard de Análise Comercial](Analise_Comercial.png)
 
 
-🎥 Demonstração do Dashboard
-
-Confira uma breve demonstração da navegação pelo dashboard e dos principais recursos desenvolvidos no Power BI.
-
-▶️ "Assistir à demonstração" (./Dashboard-Power-BI.mp4)
-
-
 📖Considerações Finais
 
 O desenvolvimento deste projeto possibilitou aplicar conhecimentos relacionados à organização, tratamento e análise de dados utilizando o Power BI. A construção do dashboard permitiu transformar dados fictícios em informações visuais, facilitando a compreensão dos principais indicadores financeiros e apoiando a análise dos resultados da loja.
