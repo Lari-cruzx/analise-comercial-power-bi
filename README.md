@@ -18,6 +18,11 @@ O objetivo deste projeto é desenvolver um dashboard interativo para análise de
 - DAX;
 - GitHub.
 
+ ## 📁 Arquivos do projeto
+
+- `Analise_Comercial_Loja.pbix` — arquivo principal do projeto desenvolvido no Power BI, contendo o dashboard, visualizações, filtros e análises comerciais.
+- `Analise_Comercial.png` — imagem de apresentação do dashboard desenvolvido.
+
  ## 📊 Indicadores e análises
 
 O dashboard apresenta os seguintes indicadores e análises:
