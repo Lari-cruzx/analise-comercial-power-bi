@@ -29,4 +29,8 @@ O dashboard apresenta os seguintes indicadores e análises:
 - 👤 Faturamento por vendedor;
 - 🥧 Faturamento por categoria;
 - 🏆 Top 5 produtos mais vendidos;
-- 🔎 Filtros por categoria, vendedor e período. 
+- 🔎 Filtros por categoria, vendedor e período.
+
+  ## 🖥️ Dashboard
+
+![Dashboard de Análise Comercial](Analise_Comercial.png)
