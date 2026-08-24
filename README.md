@@ -39,3 +39,17 @@ O dashboard apresenta os seguintes indicadores e análises:
   ## 🖥️ Dashboard
 
 ![Dashboard de Análise Comercial](Analise_Comercial.png)
+
+
+📖Considerações Finais
+
+O desenvolvimento deste projeto possibilitou aplicar conhecimentos relacionados à organização, tratamento e análise de dados utilizando o Power BI. A construção do dashboard permitiu transformar dados fictícios em informações visuais, facilitando a compreensão dos principais indicadores financeiros e apoiando a análise dos resultados da loja.
+
+Além da prática com a ferramenta, o projeto contribuiu para o desenvolvimento de habilidades relacionadas à análise de dados, criação de visualizações e apresentação de informações de forma clara e objetiva. A experiência também serviu como oportunidade para aprimorar conhecimentos que podem ser aplicados em futuros projetos acadêmicos e profissionais.
+
+💙Autora
+
+Larissa Cruz
+Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+
+Projeto desenvolvido para fins acadêmicos e de portfólio.
